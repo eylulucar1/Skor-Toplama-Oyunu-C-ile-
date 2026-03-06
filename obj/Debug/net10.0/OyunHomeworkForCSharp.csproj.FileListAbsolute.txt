@@ -1,0 +1,14 @@
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\OyunHomeworkForCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\OyunHomeworkForCSharp.AssemblyInfoInputs.cache
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\OyunHomeworkForCSharp.AssemblyInfo.cs
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\OyunHomeworkForCSharp.csproj.CoreCompileInputs.cache
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\bin\Debug\net10.0\OyunHomeworkForCSharp.exe
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\bin\Debug\net10.0\OyunHomeworkForCSharp.deps.json
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\bin\Debug\net10.0\OyunHomeworkForCSharp.runtimeconfig.json
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\bin\Debug\net10.0\OyunHomeworkForCSharp.dll
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\bin\Debug\net10.0\OyunHomeworkForCSharp.pdb
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\OyunHomeworkForCSharp.dll
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\refint\OyunHomeworkForCSharp.dll
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\OyunHomeworkForCSharp.pdb
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\OyunHomeworkForCSharp.genruntimeconfig.cache
+C:\Users\eylül\Desktop\OyunHomeworkForCSharp\obj\Debug\net10.0\ref\OyunHomeworkForCSharp.dll
