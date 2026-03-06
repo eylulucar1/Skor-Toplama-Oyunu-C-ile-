@@ -1,0 +1,22 @@
+# Binaries
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tempCodeRunnerFile.cs
