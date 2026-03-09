@@ -22,6 +22,3 @@ Projeyi bilgisayarınıza klonlayın.
 Visual Studio veya herhangi bir C# derleyicisi ile Program.cs dosyasını açın.
 Projeyi çalıştırın.
 Oyun bittikten sonra proje dizinindeki log.txt dosyasını inceleyin.
-Projeyi çalıştırın.
-
-Oyun bittikten sonra proje dizinindeki log.txt dosyasını inceleyin.
